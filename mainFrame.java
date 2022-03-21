@@ -7,7 +7,7 @@
  *
  * @author Administrateur
  */
-public class MainFrame {
+public class mainFrame {
 
     /**
      * @param args the command line arguments
